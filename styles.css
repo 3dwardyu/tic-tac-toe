@@ -1,0 +1,14 @@
+.board {
+  width: 600px;
+  height: 600px;
+  margin: auto;
+  border-collapse: collapse;
+}
+
+.square {
+  width: 200px;
+  height: 200px;
+  border: 2px solid black;
+  font-size: 5rem;
+  text-align: center;
+}
